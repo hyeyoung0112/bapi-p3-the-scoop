@@ -1,0 +1,9 @@
+users:
+  hello:
+    username: hello
+    articleIds: []
+    commentIds: []
+articles: {}
+nextArticleId: 1
+comments: {}
+nextCommentId: 1
